@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+fastapi
+uvicorn
+streamlit
+numpy
+requests
+supabase
